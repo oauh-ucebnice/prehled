@@ -12,3 +12,8 @@ Vyber si z&nbsp;učebnic:
 
 3. [Greenfoot](https://github.com/oauh-ucebnice/greenfoot-uvod)
     — úvod do programování pro budoucí programátory
+
+## Počítačové sítě
+
+1. [Návody pro Počítačové sítě na OA](https://github.com/oauh-ucebnice/vm-pro-site)
+	Vytvoření virtuálních strojů, nastavení adres,...
