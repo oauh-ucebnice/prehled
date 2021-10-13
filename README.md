@@ -17,3 +17,8 @@ Vyber si z&nbsp;učebnic:
 
 1. [Návody pro Počítačové sítě na OA](https://github.com/oauh-ucebnice/vm-pro-site)
 	Vytvoření virtuálních strojů, nastavení adres,...
+
+## Operační systémy
+
+1. [Návody pro Operační systémy na OA](https://github.com/oauh-ucebnice/navody-ops/REDME.md)
+	Vytvoření virtuálních strojů,...
