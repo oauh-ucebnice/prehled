@@ -18,7 +18,6 @@ Vyber si z&nbsp;učebnic:
 1. [Návody pro Počítačové sítě na OA](https://github.com/oauh-ucebnice/vm-pro-site)
 	Vytvoření virtuálních strojů, nastavení adres,...
 
-## Operační systémy
+## [Návody pro Operační systémy na OA](https://github.com/oauh-ucebnice/navody-ops/)
 
-1. [Návody pro Operační systémy na OA](https://github.com/oauh-ucebnice/navody-ops/REDME.md)
-	Vytvoření virtuálních strojů,...
+1. [Vytvoření virtuálního stroje pro Live DVD](https://github.com/oauh-ucebnice/navody-ops/blob/main/debian-live/README.md)
