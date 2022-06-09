@@ -13,7 +13,7 @@ Vyber si z&nbsp;učebnic:
 3. [Greenfoot](https://github.com/oauh-ucebnice/greenfoot-uvod)
     — úvod do programování pro budoucí programátory
 
-4. [Programování NodeMCU 1.0](https://github.com/oauh-ucebnice/lab-nodemcu-pro1)
+4. [Programování NodeMCU 1.0](https://github.com/oauh-ucebnice/lab-nodemcu)
 
 ## Počítačové sítě
 
