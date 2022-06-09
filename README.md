@@ -13,10 +13,13 @@ Vyber si z&nbsp;učebnic:
 3. [Greenfoot](https://github.com/oauh-ucebnice/greenfoot-uvod)
     — úvod do programování pro budoucí programátory
 
+4. [Programování NodeMCU 1.0](https://github.com/oauh-ucebnice/lab-nodemcu-pro1)
+
 ## Počítačové sítě
 
-1. [Návody pro Počítačové sítě na OA](https://github.com/oauh-ucebnice/vm-pro-site)
+1. [Návody pro praktické úlohy předmětu Počítačové sítě na OA](https://github.com/oauh-ucebnice/vm-pro-site)
 	Vytvoření virtuálních strojů, nastavení adres,...
+2. [Praktická úloha: Sledování datagramů &mdash; Wireshark](https://github.com/oauh-ucebnice/prakticka-uloha-wireshark)
 
 ## [Návody pro Operační systémy na OA](https://github.com/oauh-ucebnice/navody-ops/)
 
