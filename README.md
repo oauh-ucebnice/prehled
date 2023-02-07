@@ -15,7 +15,7 @@ Vyber si z&nbsp;učebnic:
 
 4. [Programování NodeMCU 1.0](https://github.com/oauh-ucebnice/lab-nodemcu)
 
-5. [Návody pro Programování](https://github.com/oauh-ucebnice/navody-pro/README.md)  
+5. [Návody pro Programování](https://github.com/oauh-ucebnice/navody-pro)  
 (Jen **po přihlášení** zaregistrovaným účtem pro žáky OA.)
 
 
